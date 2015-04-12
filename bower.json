@@ -1,0 +1,19 @@
+{
+  "name": "sebkoller.github.io",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sebkoller/sebkoller.github.io",
+  "authors": [
+    "Sebastian Koller <sebastian.koller@horze.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "materialize": "~0.96.1"
+  }
+}
